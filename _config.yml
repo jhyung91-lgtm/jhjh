@@ -1,16 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            My Notes
+longtitle:        My Notes
+author:           jhyung91
 description: >
-  Build Jekyll site with the GitBook style.
+  My personal notes
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jhyung91-lgtm.github.io'
+baseurl:          '/jhjh'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
