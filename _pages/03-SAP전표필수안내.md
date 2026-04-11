@@ -1,7 +1,6 @@
 ---
 title: SAP전표 필수안내
 author: jhyung91
-date: 2019-04-29
 category: 시작하기
 layout: post
 ---

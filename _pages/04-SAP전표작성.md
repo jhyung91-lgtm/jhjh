@@ -1,7 +1,6 @@
 ---
 title: SAP 전표작성
 author: jhyung91
-date: 2019-05-01
 category: 시작하기
 layout: post
 ---
