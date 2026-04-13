@@ -17,12 +17,12 @@ layout: post
   <div style="background:#f6faf7; padding:12px 20px; font-size:0.9em; color:#555; border:1px solid #d0e4d8; border-top:none; border-radius:0 0 10px 10px;">법인카드 마감기한 초과 건 SAP 전표 직접 작성</div>
 </div>
 
-<div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07); opacity:0.6;">
+<div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07);">
   <div style="background:#7a9c82; color:#fff; padding:12px 20px; font-weight:600; font-size:0.95em;">2. 경조사비</div>
-  <div style="background:#f6faf7; padding:12px 20px; font-size:0.9em; color:#888; border:1px solid #d0e4d8; border-top:none; border-radius:0 0 10px 10px;">경조금신청서 작성 및 조직문화팀 결재 완료 된 후 SAP 전표 작성</div>
+  <div style="background:#f6faf7; padding:12px 20px; font-size:0.9em; color:#555; border:1px solid #d0e4d8; border-top:none; border-radius:0 0 10px 10px;">경조금신청서 작성 및 조직문화팀 결재 완료 된 후 SAP 전표 작성</div>
 </div>
 
-<div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07); opacity:0.6;">
+<div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07);">
   <div style="background:#7a9c82; color:#fff; padding:12px 20px; font-weight:600; font-size:0.95em;">3. 미지급금(통신비,전화비)</div>
   <div style="background:#f6faf7; padding:12px 20px; font-size:0.9em; color:#555; border:1px solid #d0e4d8; border-top:none; border-radius:0 0 10px 10px;">
     지점 통신비, 전화비 미지급금 SAP 전표 작성<br><br>
