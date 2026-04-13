@@ -19,7 +19,7 @@ layout: post
 
 <div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07); opacity:0.6;">
   <div style="background:#7a90a8; color:#fff; padding:12px 20px; font-weight:600; font-size:0.95em;">2. 경조사비</div>
-  <div style="background:#f7f9fb; padding:12px 20px; font-size:0.9em; color:#888; border:1px solid #eceef1; border-top:none; border-radius:0 0 10px 10px;">준비 중</div>
+  <div style="background:#f7f9fb; padding:12px 20px; font-size:0.9em; color:#888; border:1px solid #eceef1; border-top:none; border-radius:0 0 10px 10px;">경조금신청서 작성 및 조직문화팀 결재 완료 된 후 SAP 전표 작성</div>
 </div>
 
 <div style="border-radius:10px; overflow:hidden; box-shadow:0 1px 8px rgba(0,0,0,0.07); opacity:0.6;">
