@@ -78,4 +78,4 @@ plugins:
 # To change: open browser console and run:
 #   crypto.subtle.digest('SHA-256', new TextEncoder().encode('newpassword'))
 #     .then(b => console.log([...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')))
-site_password_hash: "f446546e3f93010deb99b0120447b2ad78ea6c092f5b10ea42f8a3af52839084"
+site_password_hash: "41b44d8a45b92ad4e6da10241120c569dec3ae1693544ce3d7bf0d80f5ab3cfb"
